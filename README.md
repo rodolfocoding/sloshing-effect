@@ -124,4 +124,46 @@ Após modificar os parâmetros, execute novamente o script para gerar um novo v�
 
 ---
 
+## 👥 Como Colaborar
+
+Agradecemos seu interesse em contribuir com este projeto! Aqui estão as diretrizes para colaboração:
+
+### 🔄 Processo de contribuição
+
+1. **Fork do repositório**: Crie uma cópia do projeto na sua conta do GitHub
+2. **Clone o fork**: `git clone https://github.com/seu-usuario/sloshing-effect.git`
+3. **Crie uma branch**: `git checkout -b nome-da-feature`
+4. **Faça suas alterações**: Implemente suas melhorias ou correções
+5. **Commit das alterações**: `git commit -m "Descrição clara da alteração"`
+6. **Push para o GitHub**: `git push origin nome-da-feature`
+7. **Abra um Pull Request**: Vá até o repositório original e abra um PR
+
+### 📋 Diretrizes de código
+
+- Mantenha o estilo de código consistente com o projeto
+- Adicione comentários claros em funções complexas
+- Atualize a documentação para refletir suas alterações
+
+### 🐛 Reportando bugs
+
+Se encontrar um bug, por favor:
+
+1. Verifique se o bug já não foi reportado nas Issues
+2. Abra uma nova Issue com:
+   - Título claro e descritivo
+   - Passos detalhados para reproduzir o problema
+   - Comportamento esperado vs. comportamento observado
+   - Screenshots, se aplicável
+   - Informações do ambiente (sistema operacional, versão do Python, etc.)
+
+### 💡 Sugestões de melhorias
+
+Tem uma ideia para melhorar o projeto? Adoraríamos ouvir! Abra uma Issue com:
+
+- Uma descrição clara da sua sugestão
+- Explicação de como isso beneficiaria o projeto
+- Quaisquer referências ou exemplos relevantes
+
+---
+
 Desenvolvido para análise de dinâmica de fluidos em movimento.
